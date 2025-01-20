@@ -15,3 +15,5 @@ vim.opt.listchars = {
 	precedes = "⟨", -- Character to show when the line begins before the screen
 	nbsp = "␣", -- Display non-breaking spaces as '␣' (open box)
 }
+
+vim.g.autoformat = false
